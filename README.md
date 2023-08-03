@@ -25,10 +25,10 @@
 
 ## 📚What I Learned
 
-* Swift - `didSet` PropertyObserver
-* `Timer`
-* `CGAffintransform`
-* `UILongPressGesture`
+* `Timer`로 타이머를 만드는 법
+* `DidSet` 옵저버 패턴으로 UI를 다시 그리는 법
+* `CGAffintransform`으로 애니메이션 효과를 주는 법
+* `UILongPressGesture`로 제스처 효과를 추가하는 법
  
 ## 👩🏻‍💻Reference
 
