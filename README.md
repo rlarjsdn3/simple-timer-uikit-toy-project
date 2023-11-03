@@ -6,29 +6,11 @@
 `기술스택` <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <br>
 `게시일자` 2023년 7월 25일(화) <br>
 
-## ✅Features
-
-* 타이머(sec) 시작
-* 타이머(sec) 중지
-* 타이머(sec) 리셋 
-
-## ⚒️Built With
-
-* Swift/UIKit
-
 ## 🏙️Images
 
 | 이미지 |
 | :--: |
 | <img src="https://github.com/rlarjsdn3/simple-timer-uikit-toy-project/assets/21079970/2357235c-0753-4a1c-86fc-9e7d12ec793a" align="center" width="235" height="511"> |
-
-
-## 📚What I Learned
-
-* `Timer`로 타이머를 만드는 법
-* `DidSet` 옵저버 패턴으로 UI를 다시 그리는 법
-* `CGAffintransform`으로 애니메이션 효과를 주는 법
-* `UILongPressGesture`로 제스처 효과를 추가하는 법
  
 ## 👩🏻‍💻Reference
 
